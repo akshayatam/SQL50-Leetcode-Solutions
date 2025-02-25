@@ -61,11 +61,11 @@ SQL50-Leetcode-Solutions/
 Progress on each section:
 
 - [x] **Select**
-    - [x] Recyclable and Low Fat Products [(link)](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) 
-    - [x] Find Customer Referee [link](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) 
-    - [x] Big Countries [link](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) 
-    - [x] Article Views I [link](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) 
-    - [x] Invalid Tweets [link](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) 
+    - [x] 1. Recyclable and Low Fat Products [(link)](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) 
+    - [x] 2. Find Customer Referee [(link)](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) 
+    - [x] 3. Big Countries [(link)](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) 
+    - [x] 4. Article Views I [(link)](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) 
+    - [x] 5. Invalid Tweets [(link)](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) 
 - [ ] **Basic Joins**
 - [ ] **Basic Aggregate Functions**
 - [ ] **Sorting and Grouping**
