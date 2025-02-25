@@ -66,7 +66,9 @@ Progress on each section:
     - [x] 3. Big Countries [(link)](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) 
     - [x] 4. Article Views I [(link)](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) 
     - [x] 5. Invalid Tweets [(link)](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) 
-- [ ] **Basic Joins**
+- [x] **Basic Joins**
+    - [x] 1. Replace Employee ID With The Unique Identifier [(link)](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) 
+    - [x] 2. Product Sales Analysis I [(link)](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50) 
 - [ ] **Basic Aggregate Functions**
 - [ ] **Sorting and Grouping**
 - [ ] **Advanced Select and Joins**
