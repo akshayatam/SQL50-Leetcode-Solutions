@@ -1,6 +1,6 @@
 # Description of questions for section 'Select' 
 
-## Recyclable and Low Fat Products [link](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50) 
+## 1. Recyclable and Low Fat Products [(link)](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50) 
 ![Easy](https://img.shields.io/badge/difficulty-easy-green)
 
 Table: `Products`
@@ -24,7 +24,7 @@ Solution file: `solution1.sql`
 
 --- 
 
-## Find Customer Referee [link](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) 
+## 2. Find Customer Referee [(link)](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) 
 ![Easy](https://img.shields.io/badge/difficulty-easy-green) 
 
 Table: `Customer`
@@ -47,7 +47,7 @@ Solution file: `solution2.sql`
 
 --- 
 
-## Big Countries [link](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) 
+## 3. Big Countries [(link)](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) 
 ![Easy](https://img.shields.io/badge/difficulty-easy-green) 
 
 Table: `World` 
@@ -76,7 +76,7 @@ Solution file: `solution3.sql`
 
 --- 
 
-## Article Views I [link](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50)
+## 4. Article Views I [(link)](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50)
 ![Easy](https://img.shields.io/badge/difficulty-easy-green) 
 
 Table: `Views` 
@@ -103,7 +103,7 @@ Solution file: `solution4.sql`
 
 --- 
 
-## Invalid Tweets [link](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) 
+## 5. Invalid Tweets [(link)](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) 
 ![Easy](https://img.shields.io/badge/difficulty-easy-green) 
 
 Table: `Tweets` 
