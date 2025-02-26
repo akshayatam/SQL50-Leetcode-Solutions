@@ -69,6 +69,11 @@ Progress on each section:
 - [x] **Basic Joins**
     - [x] 1. Replace Employee ID With The Unique Identifier [(link)](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) 
     - [x] 2. Product Sales Analysis I [(link)](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50) 
+    - [x] 3. Customer Who Visited but Did Not Make Any Transactions [(link)](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50) 
+    - [x] 4. Rising Temperature [(link)](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50) 
+    - [x] 5. Average Time of Process per Machine [(link)](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50) 
+    - [x] 6. Employee Bonus [(link)](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50) 
+    - [x] 7. Students and Examinations [(link)](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50) 
 - [ ] **Basic Aggregate Functions**
 - [ ] **Sorting and Grouping**
 - [ ] **Advanced Select and Joins**
